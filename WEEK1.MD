@@ -12,12 +12,17 @@
 ---
 
 ### Question 2
+**Edited** - 
+Explanation : Unification of technologies such as low-power embedded
+systems, cloud computing, big-data, machine learning, and
+networking. 
+
 **Which of the following technologies have unified and has resulted in the evolution of IoT?**
 
-- **High-power embedded systems** ✅
+- High-power embedded systems  
 - Super Computing
 - Engine Technology
-- None of these  
+- **None of these** ✅
 
 ---
 
